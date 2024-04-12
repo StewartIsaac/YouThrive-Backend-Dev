@@ -1,0 +1,22 @@
+
+html, body {
+background-color: #add8e6;
+}
+
+#title {
+text-align: center;
+}
+
+a {
+color: inherit;
+text-decoration: none;
+}
+
+.pizzacato {
+border: solid 2px black;
+}
+
+li {
+color: green;
+font-size: 18px;
+}
